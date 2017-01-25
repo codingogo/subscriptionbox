@@ -1,0 +1,23 @@
+body {
+  background: #ededed;
+}
+h1{
+  color: green;
+}
+.brand {
+  text-align:left;
+  font-size: 18px;
+}
+.menu {
+  text-align: right;
+}
+.container {
+  max-width: 900px;
+}
+.center {
+  text-align: center;
+}
+.jumbo {
+  background: url(https://images.pexels.com/photos/256040/pexels-photo-256040.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+  height: 400px;
+}
